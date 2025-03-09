@@ -1,17 +1,9 @@
 # my_games
 
-A new Flutter project.
+Game Snake
 
 ## Getting Started
+Project ini dibangun dengan FLutter + Engine Flame sebagai sarana pembelajaran. Bukan untuk komersial pribadi.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Snake adalah game klasik di mana pemain mengendalikan ular yang terus bergerak dan harus memakan makanan untuk bertambah panjang. Tantangannya adalah menghindari menabrak dinding atau tubuh sendiri seiring ular semakin panjang. Dengan gameplay sederhana namun adiktif, game ini menguji kecepatan dan strategi pemain dalam mencapai skor tertinggi!
 # snake_games
